@@ -1,19 +1,17 @@
 {
-  "name": "hubot-heartbot",
-  "description": "A shot of love for your favorite chat client.",
-  "author": "Kamal Nasser <kamal@digitalocean.com>",
+  "name": "hubot-tellbot",
+  "description": "Enhanced discussion for your favorite chat client.",
   "version": "1.0.6",
   "main": "index.coffee",
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalocean/heartbot"
+    "url": "https://github.com/yago/tellbot"
   },
   "bugs": {
-    "url": "https://github.com/digitalocean/heartbot/issues"
+    "url": "https://github.com/yago/tellbot/issues"
   },
   "keywords": [
     "hubot",
-    "valentines",
     "bot"
   ],
   "license": "MIT",
